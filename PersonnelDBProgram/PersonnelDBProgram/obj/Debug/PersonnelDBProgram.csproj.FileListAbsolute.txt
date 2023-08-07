@@ -1,0 +1,13 @@
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\bin\Debug\Database1.mdf
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\bin\Debug\Database1_log.ldf
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\bin\Debug\PersonnelDBProgram.exe.config
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\bin\Debug\PersonnelDBProgram.exe
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\bin\Debug\PersonnelDBProgram.pdb
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.csproj.AssemblyReference.cache
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.Form1.resources
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.Properties.Resources.resources
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.csproj.GenerateResource.cache
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.csproj.CoreCompileInputs.cache
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.exe
+C:\Users\Atrina\source\repos\PersonnelDBProgram\PersonnelDBProgram\obj\Debug\PersonnelDBProgram.pdb
