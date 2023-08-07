@@ -48,8 +48,10 @@ namespace UniqueWordsReader
                 }
 
                 var uniqueWordsRepeatedOnce = wordFrequency
-                    .Where(pair => pair.Value == 1)
-                    .Select(pair => pair.Key);
+                     .Where(pair => pair.Value == 1)
+                     .Select(pair => pair.Key)
+                     .Distinct();
+
 
                 listBox1.Items.Clear();
                 listBox1.Items.AddRange(uniqueWordsRepeatedOnce.ToArray());
